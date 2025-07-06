@@ -3,11 +3,19 @@ This project demonstrates how to build a real-time electricity demand forecastin
 
 🛠️ Technologies Used
 Python
+
 FastAPI – for building the REST API
+
 Uvicorn – ASGI server for FastAPI
+
 WebSockets – for real-time data transfer
+
 ngrok – to expose your local app to the internet
+
 Nest-Asyncio – to handle async inside Jupyter/Colab
+
 Pandas, Numpy – for data handling
+
 Plotly – for interactive visualizations
+
 Google Colab – to run everything in the cloud
