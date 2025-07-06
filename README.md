@@ -2,6 +2,7 @@
 This project demonstrates how to build a real-time electricity demand forecasting dashboard using FastAPI, WebSocket, and Plotly. It simulates live electricity usage data and streams it to a web-based dashboard for monitoring and analysis—ideal for smart grid solutions and urban energy management.
 
 🛠️ Technologies Used
+
 Python
 
 FastAPI – for building the REST API
